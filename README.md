@@ -8,7 +8,8 @@
 
 <br/>
 
-## 👋 Sobre mim
+<h3 align="center">👋 Sobre mim</h3>
+<p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
 
 ```yaml
 luiz:
@@ -21,7 +22,8 @@ luiz:
 
 <br/>
 
-## 🛠️ Stack & Ferramentas
+<h3 align="center">🛠️ Stack & Ferramentas</h3>
+<p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
 
 <div align="center">
 
@@ -38,7 +40,8 @@ luiz:
 
 <br/>
 
-## ⚡ Fun facts
+<h3 align="center">⚡ Fun facts</h3>
+<p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
 
 - 🖥️ Já debugou um worm de USB só por curiosidade de entender como funcionava
 - 📱 Prefere reescrever do zero a ficar horas debugando um setup quebrado (e geralmente é mais rápido mesmo)
@@ -48,7 +51,8 @@ luiz:
 
 <br/>
 
-## 📊 Estatísticas (porque é bonito e eu gosto)
+<h3 align="center">📊 Estatísticas</h3>
+<p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
 
 <div align="center">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=luizelemesmo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=00C9A7&text_color=c9d1d9"/>
@@ -56,14 +60,15 @@ luiz:
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=luizelemesmo&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=00C9A7&currStreakLabel=8A2BE2"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=luizelemesmo&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=00C9A7&currStreakLabel=8A2BE2"/>
 </div>
 
 <br/>
 
 
 
-## 📫 Onde me achar
+<h3 align="center">📫 Onde me achar</h3>
+<p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
 
 <div align="center">
 
