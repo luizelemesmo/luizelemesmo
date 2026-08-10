@@ -56,41 +56,12 @@ luiz:
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luizelemesmo&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=00C9A7&currStreakLabel=8A2BE2"/>
+<img src="https://streak-stats.demolab.com/?user=luizelemesmo&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=00C9A7&currStreakLabel=8A2BE2"/>
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/luizelemesmo/luizelemesmo/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
-</div>
-
-> 💡 *Pra ativar a cobrinha acima, é só configurar a [GitHub Action do snake](https://github.com/Platane/snk) no repo `luizelemesmo/luizelemesmo`.*
-
-<br/>
-
-## 📌 Alguns projetos que curto mostrar
-
-<div align="center">
-
-<a href="https://github.com/luizelemesmo/discover-sgra">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=luizelemesmo&repo=discover-sgra&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/luizelemesmo/DCKP-Matheuristics">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=luizelemesmo&repo=DCKP-Matheuristics&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/luizelemesmo/transphobia-detection-bertimbau">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=luizelemesmo&repo=transphobia-detection-bertimbau&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/luizelemesmo/violence-detection-rwf2000">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=luizelemesmo&repo=violence-detection-rwf2000&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9"/>
-</a>
-
-</div>
-
-<br/>
 
 ## 📫 Onde me achar
 
@@ -98,7 +69,7 @@ luiz:
 
 [![Twitter/X](https://img.shields.io/badge/-@luizelemesmo-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/luizelemesmo)
 [![Instagram](https://img.shields.io/badge/-@carvalho.lh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carvalho.lh)
-[![LinkedIn](https://img.shields.io/badge/-Luiz%20Carvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lulucarvalho/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-Luiz%20Carvalho-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/lulucarvalho/)
 [![Location](https://img.shields.io/badge/-Ouro%20Preto,%20MG-00C9A7?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
