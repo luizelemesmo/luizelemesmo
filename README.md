@@ -51,7 +51,7 @@ luiz:
 
 <br/>
 
-<h3 align="center">📊 Estatísticas (porque é bonito e eu gosto)</h3>
+<h3 align="center">📊 Estatísticas</h3>
 <p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
 
 <div align="center">
