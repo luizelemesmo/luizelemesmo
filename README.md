@@ -51,7 +51,7 @@ luiz:
 
 <br/>
 
-<h3 align="center">📊 Estatísticas</h3>
+<h3 align="center">📊 Estatísticas (porque é bonito e eu gosto)</h3>
 <p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
 
 <div align="center">
@@ -72,6 +72,7 @@ luiz:
 
 <div align="center">
 
+[![Portfólio](https://img.shields.io/badge/-Portfólio-D4A24C?style=for-the-badge&logo=vercel&logoColor=white)](https://luizhportfolio.vercel.app/)
 [![Twitter/X](https://img.shields.io/badge/-@luizelemesmo-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/luizelemesmo)
 [![Instagram](https://img.shields.io/badge/-@carvalho.lh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carvalho.lh)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-Luiz%20Carvalho-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/lulucarvalho/)
