@@ -97,6 +97,8 @@ luiz:
 <div align="center">
 
 [![Twitter/X](https://img.shields.io/badge/-@luizelemesmo-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/luizelemesmo)
+[![Instagram](https://img.shields.io/badge/-@carvalho.lh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carvalho.lh)
+[![LinkedIn](https://img.shields.io/badge/-Luiz%20Carvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lulucarvalho/)
 [![Location](https://img.shields.io/badge/-Ouro%20Preto,%20MG-00C9A7?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
